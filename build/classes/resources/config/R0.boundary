@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_07" class="java.beans.XMLDecoder"> 
+ <object class="java.util.ArrayList"> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>33</int> 
+    <int>67</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>17</int> 
+    <int>84</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>12</int> 
+    <int>109</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>20</int> 
+    <int>122</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>18</int> 
+    <int>133</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>11</int> 
+    <int>142</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>9</int> 
+    <int>151</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>17</int> 
+    <int>154</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>32</int> 
+    <int>147</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>65</int> 
+    <int>132</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>85</int> 
+    <int>130</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>90</int> 
+    <int>148</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>92</int> 
+    <int>197</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>118</int> 
+    <int>233</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>131</int> 
+    <int>243</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>156</int> 
+    <int>259</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>175</int> 
+    <int>270</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>187</int> 
+    <int>275</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>195</int> 
+    <int>261</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>209</int> 
+    <int>248</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>226</int> 
+    <int>247</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>232</int> 
+    <int>238</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>225</int> 
+    <int>229</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>210</int> 
+    <int>219</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>196</int> 
+    <int>208</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>208</int> 
+    <int>195</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>223</int> 
+    <int>176</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>239</int> 
+    <int>163</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>253</int> 
+    <int>161</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>263</int> 
+    <int>153</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>255</int> 
+    <int>134</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>257</int> 
+    <int>117</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>282</int> 
+    <int>118</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>292</int> 
+    <int>104</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>315</int> 
+    <int>85</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>330</int> 
+    <int>75</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>338</int> 
+    <int>65</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>350</int> 
+    <int>43</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>359</int> 
+    <int>25</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>347</int> 
+    <int>12</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>344</int> 
+    <int>7</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>334</int> 
+    <int>7</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>289</int> 
+    <int>9</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>265</int> 
+    <int>10</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>234</int> 
+    <int>10</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>219</int> 
+    <int>10</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>202</int> 
+    <int>13</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>193</int> 
+    <int>16</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>184</int> 
+    <int>24</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>182</int> 
+    <int>37</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>165</int> 
+    <int>36</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>149</int> 
+    <int>42</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>127</int> 
+    <int>45</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>118</int> 
+    <int>55</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>117</int> 
+    <int>63</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>93</int> 
+    <int>66</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="java.awt.Point"> 
+    <int>62</int> 
+    <int>61</int> 
+   </object> 
+  </void> 
+ </object> 
+</java> 
